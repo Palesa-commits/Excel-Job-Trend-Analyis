@@ -1,5 +1,7 @@
 # Excel-Job-Trend-Analysis
 A job trend analysis in Excel
+
+
 It’s been over a year since I’ve been trying to get into the dynamic job market as a self-motivated Data Analyst, it was only in the past few months that I realised that I’ve been focusing too much on certifications, online courses, and tutorials instead of applying my knowledge on more impactful projects.
 
 Hence this is my first “actual” project, I have done a few but they’re not documented and honestly, they’re just all over the place….anyway we’re here now and that’s all that matters. My tedious and relatively long job-hunting process is the reason I decided to try to “decode” the ever-evolving job trends primarily in the USA.
